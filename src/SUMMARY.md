@@ -4,10 +4,10 @@
 
 # Get started
 
-- [Prerequisites](miden-client/tutorials/prerequisites.md)
-- [Create an account](miden-client/tutorials/create-account.md)
-- [P2P private transfer](miden-client/tutorials/p2p-private.md)
-- [P2P public transfer](miden-client/tutorials/p2p-public.md)
+- [Prerequisites](miden-client/get-started/prerequisites.md)
+- [Create an account](miden-client/get-started/create-account.md)
+- [P2P private transfer](miden-client/get-started/p2p-private.md)
+- [P2P public transfer](miden-client/get-started/p2p-public.md)
 
 # How to
 
