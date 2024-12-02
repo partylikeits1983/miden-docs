@@ -5,7 +5,7 @@
 # Get started
 
 - [Prerequisites](miden-client/get-started/prerequisites.md)
-- [Create an account](miden-client/get-started/create-account.md)
+- [Create an account](miden-client/get-started/create-account-use-faucet.md)
 - [P2P private transfer](miden-client/get-started/p2p-private.md)
 - [P2P public transfer](miden-client/get-started/p2p-public.md)
 
