@@ -38,6 +38,8 @@
     * [Examples](miden-client/examples.md)
     * [API](miden-client/api-docs.md)
 
+ <!-- Protocol -->
+
 - [Architecture](miden-base/architecture/overview.md)
     * [Core entities]()
         + [Accounts](miden-base/architecture/accounts.md)
