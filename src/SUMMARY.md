@@ -55,7 +55,7 @@
 
 <!-- Tutorials -->
 
-- [Tutorials](./miden-tutorials/README.md)
+- [Tutorials](./miden-tutorials/index.md)
   - [Miden Node Setup](./miden-tutorials/miden_node_setup.md)
   - [Rust-Client]()
     - [Creating Accounts and Faucets](./miden-tutorials/rust-client/create_deploy_tutorial.md)
