@@ -55,12 +55,12 @@
 
 <!-- Tutorials -->
 
-- [Tutorials](./miden-tutorials/SUMMARY.md)
-  - [Miden Node Setup](./miden-tutorials/miden_node_setup_tutorial.md)
-  - [Rust-Client](./miden-tutorials/rust-client/rust_client_tutorials.md)
+- [Tutorials](./miden-tutorials/README.md)
+  - [Miden Node Setup](./miden-tutorials/miden_node_setup.md)
+  - [Rust-Client]()
     - [Creating Accounts and Faucets](./miden-tutorials/rust-client/create_deploy_tutorial.md)
     - [Mint, Consume, and Create Notes](./miden-tutorials/rust-client/mint_consume_create_tutorial.md)
     - [Deploying a Counter Contract](./miden-tutorials/rust-client/counter_contract_tutorial.md)
-  - [Web-Client](./miden-tutorials/web-client/web_client_tutorials.md)
+  - [Web-Client]()
     - [Creating Accounts and Faucets](./miden-tutorials/web-client/create_deploy_tutorial.md)
     - [Mint, Consume, and Create Notes](./miden-tutorials/web-client/mint_consume_create_tutorial.md)

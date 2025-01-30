@@ -205,6 +205,8 @@ export async function webClient(): Promise<void> {
 
 Let's run the `src/webClient.ts` function again. Reload the page and click "Start WebClient". 
 
+**Note**: *Currently there is a minor bug in the WebClient that produces a warning message, "Error inserting code with root" when creating multiple accounts. This is currently being fixed.*
+
 The output will look like this:
 ```
 Latest block number: 4807
