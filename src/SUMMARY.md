@@ -41,9 +41,9 @@
  <!-- Protocol -->
 
 - [Protocol](miden-base/architecture/overview.md)
-    * [Accounts](miden-base/architecture/account.md)
-    * [Notes](miden-base/architecture/note.md)
-    * [Assets](miden-base/architecture/asset.md)
+    * [Smart contract](miden-base/architecture/account.md)
+    * [Note](miden-base/architecture/note.md)
+    * [Asset](miden-base/architecture/asset.md)
     * [Transaction](miden-base/architecture/transaction.md)
     * [State](miden-base/architecture/state.md)
     * [Execution](miden-base/architecture/execution.md)
