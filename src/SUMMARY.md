@@ -40,16 +40,11 @@
 
  <!-- Protocol -->
 
-- [Architecture](miden-base/architecture/overview.md)
-    * [Core entities]()
-        + [Accounts](miden-base/architecture/accounts.md)
-        + [Notes](miden-base/architecture/notes.md)
-        + [Assets](miden-base/architecture/assets.md)
-    * [Transactions](miden-base/architecture/transactions/overview.md)
-        + [Execution](miden-base/architecture/transactions/execution.md)
-        + [Kernel](miden-base/architecture/transactions/kernel.md)
-        + [Contexts](miden-base/architecture/transactions/contexts.md)
-        + [Procedures](miden-base/architecture/transactions/procedures.md)
+- [Protocol](miden-base/architecture/overview.md)
+    * [Accounts](miden-base/architecture/account.md)
+    * [Notes](miden-base/architecture/note.md)
+    * [Assets](miden-base/architecture/asset.md)
+    * [Transaction](miden-base/architecture/transaction.md)
     * [State](miden-base/architecture/state.md)
     * [Execution](miden-base/architecture/execution.md)
 
