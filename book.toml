@@ -1,2 +1,19 @@
+[book]
+title = "The Miden book"
+authors = ["Miden team"]
+description = "One stop shop for everything Miden"
+multilingual = false
+language = "en"
+
+[output.html]
+git-repository-url = "https://github.com/0xPolygonMiden/miden-docs"
+
 [output.html.fold]
 enable = true
+
+[preprocessor.katex]
+after = ["links"]
+
+[preprocessor.alerts]
+
+[output.linkcheck]

@@ -1,6 +1,6 @@
 # Summary
 
-- [Overview](miden-base/index.md)
+- [Overview](overview.md)
 
 <!-- Get started -->
 
@@ -40,13 +40,13 @@
 
  <!-- Protocol -->
 
-- [Protocol](miden-base/architecture/overview.md)
-    * [Smart contract](miden-base/architecture/account.md)
-    * [Note](miden-base/architecture/note.md)
-    * [Asset](miden-base/architecture/asset.md)
-    * [Transaction](miden-base/architecture/transaction.md)
-    * [State](miden-base/architecture/state.md)
-    * [Blockchain](miden-base/architecture/blockchain.md)
+- [Protocol](miden-base/src/index.md)
+    * [Smart contract](miden-base/src/account.md)
+    * [Note](miden-base/src/note.md)
+    * [Asset](miden-base/src/asset.md)
+    * [Transaction](miden-base/src/transaction.md)
+    * [State](miden-base/src/state.md)
+    * [Blockchain](miden-base/src/blockchain.md)
 
 <!-- Tutorials -->
 
