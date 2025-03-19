@@ -28,7 +28,7 @@ jobs:
           echo `pwd`/mdbook >> $GITHUB_PATH
 
       - name: Install katex, alerts and linkcheck
-      - uses: actions/checkout@main
+        uses: actions/checkout@main
         run: |
           rustup update --no-self-update stable
           cargo +stable install mdbook-katex mdbook-linkcheck mdbook-alerts
