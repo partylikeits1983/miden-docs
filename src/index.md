@@ -11,8 +11,8 @@ Using Polygon Miden, builders can create novel, high-throughput, private applica
 
 If you want to join the technical discussion, please check out the following:
 
-* [Discord](https://discord.gg/0xpolygonRnD)
-* [Miden repo](https://github.com/0xPolygonMiden)
+* [Telegram](https://t.me/MidenCommunity)
+* [Miden Github](https://github.com/0xPolygonMiden)
 * [Roadmap](roadmap.md)
 
 > [!WARNING]
@@ -21,12 +21,12 @@ If you want to join the technical discussion, please check out the following:
 
 ## Status and features
 
-Polygon Miden is currently on release v0.7. This is an early version of the protocol and its components. 
+Polygon Miden is currently on release v0.8 This is an early version of the protocol and its components. 
 
 > [!WARNING]
 > We expect breaking changes on all components.
 
-At the time of writing, Polygon Miden doesn't offer all the features you may expect from a zkRollup. During 2024, we expect to gradually implement more features.
+At the time of writing, Polygon Miden doesn't offer all the features you may expect from a zkRollup yet. During 2025, we expect to gradually implement more features.
 
 ### Feature highlights
 

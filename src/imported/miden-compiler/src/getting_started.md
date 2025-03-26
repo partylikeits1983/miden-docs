@@ -82,10 +82,6 @@ in the future, but for now it is expected that you implement your own optimizati
 
 For the latest information on known bugs, see the [issue tracker](https://github.com/0xpolygonmiden/compiler/issues).
 
-See [Known Limitations](appendix/known-limitations.md) for details on what functionality is
-missing or only partially implemented.
-
-
 ## Where to start?
 
 Provided here are a set of guides which are focused on documenting a couple of supported workflows
