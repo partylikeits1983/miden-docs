@@ -68,7 +68,7 @@ update_docs() {
 }
 
 # Update docs
-update_docs "$MIDEN_CLIENT_REPO" "$CLIENT_DIR" "phklive_add_tutorials"
+update_docs "$MIDEN_CLIENT_REPO" "$CLIENT_DIR" "next"
 update_docs "$MIDEN_NODE_REPO" "$NODE_DIR" "next"
 update_docs "$MIDEN_BASE_REPO" "$BASE_DIR"
 update_docs "$MIDEN_VM_REPO" "$VM_DIR" "next"

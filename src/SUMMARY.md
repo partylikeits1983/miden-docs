@@ -30,7 +30,7 @@
 
 - [Client](imported/miden-client/src/index.md)
     - [Installation](imported/miden-client/src/install-and-run.md)
-    - [Get started](imported/miden-client/src/get-started/prerequisites.md)
+    - [Getting started](imported/miden-client/src/get-started/prerequisites.md)
         - [Create account](imported/miden-client/src/get-started/create-account-use-faucet.md)
         - [Peer-to-peer transfer](imported/miden-client/src/get-started/p2p-public.md)
         - [Private peer-to-peer transfer](imported/miden-client/src/get-started/p2p-private.md)
