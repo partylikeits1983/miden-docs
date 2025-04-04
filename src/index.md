@@ -32,7 +32,7 @@ At the time of writing, Polygon Miden doesn't offer all the features you may exp
 
 #### Private accounts
 
-The Miden operator only tracks a commitment to account data in the public database. Users can only execute smart contracts when they know the interface.
+The Miden operator only tracks a commitment to account data in the public database. Users can only execute smart contracts when they know the interface and the state.
 
 #### Private notes
 
@@ -44,21 +44,33 @@ Polygon Miden supports public smart contracts like Ethereum. The code and state 
 
 #### Public notes
 
-As with public accounts, public notes are also supported. That means, the Miden operator publicly stores note data. Note consumption is not private.
+With public notes, the users are be able to store all note details on-chain, thus, eliminating the need to communicate note details via side-channels.
 
 #### Local transaction execution
 
 The Miden client allows for local transaction execution and proving. The Miden operator verifies the proof and, if valid, updates the state DBs with the new data.
 
-#### Simple smart contracts
+#### Delegated proving
 
-Currently, there are three different smart contracts available. A basic wallet smart contract that sends and receives assets, and fungible and non-fungible faucets to mint and burn assets.
+The Miden client allows for proof generation by an external service if the user choses to do so , e.g., if on a low powered device.
+
+#### Standardized smart contracts
+
+Currently, there are three different standardized smart contracts available. A basic wallet smart contract that sends and receives assets, and fungible and non-fungible faucets to mint and burn assets.
 
 All accounts are written in [MASM](https://0xpolygonmiden.github.io/miden-vm/user_docs/assembly/main.html).
 
+#### Customized smart contracts
+
+Accounts can expose any interface putting custom account components together. Account components can be simple smart contracts, like the basic wallet, or they can be entirely custom made and reflect any logic due to the underlying Turing-complete Miden VM.
+
 #### P2ID, P2IDR, and SWAP note scripts
 
-Currently, there are three different note scripts available. Two different versions of pay-to-id scripts of which P2IDR is reclaimable, and a swap script that allows for simple token swaps.
+Currently, there are three different standardized note scripts available. Two different versions of pay-to-id scripts of which P2IDR is reclaimable, and a swap script that allows for simple token swaps.
+
+#### Customized note scripts
+
+Users are also able to write their own note scripts. Note scripts are executed during note consumption and they can be arbitrarily complex due to the underlying Turing-complete Miden VM.
 
 #### Simple block building
 
@@ -72,14 +84,6 @@ The Miden node stores all necessary information in its state DBs and provides th
 
 > [!WARNING]
 > The following features are at a planning stage only.
-
-#### Customized smart contracts
-
-Accounts can expose any interface in the future. This is the Miden version of a smart contract. Account code can be arbitrarily complex due to the underlying Turing-complete [Miden VM](https://0xpolygonmiden.github.io/miden-vm/intro/main.html).
-
-#### Customized note scripts
-
-Users will be able to write their own note scripts using the Miden client. Note scripts are executed during note consumption and they can be arbitrarily complex due to the underlying Turing-complete Miden VM.
 
 #### Network transactions
 
