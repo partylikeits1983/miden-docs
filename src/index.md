@@ -11,7 +11,7 @@ Using Polygon Miden, builders can create novel, high-throughput, private applica
 
 If you want to join the technical discussion, please check out the following:
 
-* [Telegram](https://t.me/MidenCommunity)
+* [Telegram](https://t.me/BuildOnMiden)
 * [Miden Github](https://github.com/0xPolygonMiden)
 * [Roadmap](roadmap.md)
 
