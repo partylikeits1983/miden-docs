@@ -26,7 +26,7 @@ Visit our [website](https://polygon.technology/polygon-miden)!
 - [Miden VM playground](https://0xpolygonmiden.github.io/examples/)
 - [Miden tutorials](https://github.com/0xPolygonMiden/miden-tutorials)
 - [Miden X](https://twitter.com/0xPolygonMiden)
-- [Miden Telegram](https://t.me/MidenCommunity)
+- [Miden Telegram](https://t.me/BuildOnMiden)
 
 ## Documentation
 
